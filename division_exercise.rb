@@ -1,5 +1,6 @@
 def division(x,y)
 	puts x/y
+	x/y
 end
 
 division(125,5)
